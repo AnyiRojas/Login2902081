@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="Purple80">#FFD0BCFF</color>
-    <color name="PurpleGrey80">#FFCCC2DC</color>
-    <color name="Pink80">#FFEFB8C8</color>
-    <color name="PurpleGrey40">#FF625b71</color>
-    <color name="Pink40">#FF7D5260</color>
-    <color name="colorText">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#92A3FD</color>
+    <color name="colorSecondary">#9DCEFF</color>
+    <color name="colorText">#1D1617</color>
+    <color name="colorAccent">#C58BF2</color>
+    <color name="colorWhite">#FFFFFFFF</color>
+    <color name="colorGray">#7B6F72</color>
+    <color name="colorBg">#F7F8F8</color>
 </resources>
